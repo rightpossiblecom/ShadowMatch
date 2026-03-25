@@ -9,7 +9,7 @@ class AppConstants {
   static const String keyBestScoreTimeAttack = 'best_score_time_attack';
   static const String keyBestStreak = 'best_streak';
 
-  static const String privacyPolicyUrl = 'https://example.com/privacy';
-  static const String termsOfServiceUrl = 'https://example.com/terms';
+  static const String privacyPolicyUrl = 'https://shadowmatch.app/privacy-policy';
+  static const String termsOfServiceUrl = 'https://shadowmatch.app/terms';
 }
 

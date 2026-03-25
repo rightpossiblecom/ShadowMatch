@@ -1,0 +1,25 @@
+App Name: ShadowMatch
+
+Short description:
+Fast puzzle game: match each shape to its correct shadow.
+
+Full description:
+ShadowMatch is a quick visual puzzle game built to train recognition and speed.
+
+How it works:
+- A shape appears on screen
+- You choose the correct matching shadow from 3 options
+- You get instant feedback and move to the next round
+
+Modes:
+- Classic: 3 lives, endless rounds, difficulty increases as you improve
+- Time Attack: 60 seconds to score as many correct matches as possible
+
+Designed to feel:
+- Fast and responsive
+- Clean and easy to read
+- Satisfying when you get it right
+
+Privacy:
+ShadowMatch does not collect personal data. No accounts, no tracking, no analytics.
+

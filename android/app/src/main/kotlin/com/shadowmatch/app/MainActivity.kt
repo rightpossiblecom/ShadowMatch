@@ -1,4 +1,4 @@
-package com.example.shadowmatch
+package com.shadowmatch.app
 
 import io.flutter.embedding.android.FlutterActivity
 
