@@ -1,6 +1,6 @@
 "use client";
 
-import { motion } from "framer-motion";
+import { motion, type Variants } from "framer-motion";
 import { Container } from "@/components/ui/container";
 
 export const features = [
@@ -36,7 +36,7 @@ export const features = [
   },
 ];
 
-const listAnimation = {
+const listAnimation: Variants = {
   hidden: {},
   show: {
     transition: {
@@ -45,13 +45,13 @@ const listAnimation = {
   },
 };
 
-const itemAnimation = {
+const itemAnimation: Variants = {
   hidden: { opacity: 0, scale: 0.95, y: 15 },
   show: {
     opacity: 1,
     scale: 1,
     y: 0,
-    transition: { duration: 0.4, ease: "easeOut" },
+    transition: { duration: 0.4, ease: [0.16, 1, 0.3, 1] },
   },
 };
 
